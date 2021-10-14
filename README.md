@@ -7,7 +7,7 @@ EMOJI=📧
 PRIVATE_CHANNEL_ID=<CHANNELID>
 ```
 
-##Start the bot with npm start
+# Start the bot with npm start
 
 **NOTES**
 
