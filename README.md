@@ -7,8 +7,8 @@ EMOJI=📧
 PRIVATE_CHANNEL_ID=<CHANNELID>
 ```
 
-# Start the bot with npm start
-
+**Start the bot with npm start**
+---
 **NOTES**
 
 1- Don't wrap message ids in quotes
